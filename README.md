@@ -1,5 +1,4 @@
 # Azure-CosmosDB
-TODO - add a simple application.
 
 ## Multiple APIs
 1. SQL (a core API)
