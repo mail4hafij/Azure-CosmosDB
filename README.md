@@ -8,7 +8,7 @@
 4. Gremlin (Graphs)
 5. Azure Table Storage
 
-SQL API support querying items using SQL as a JSON query language.
+SQL API supports querying items using SQL as a JSON query language.
 
 ## Key concepts
 1. Request unit: Usage of Cosmos DB is expressed in Request Units. Read operation for one single document is 1RU. 
