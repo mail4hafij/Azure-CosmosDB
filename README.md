@@ -1,6 +1,5 @@
 # Azure-CosmosDB
 
-
 ## Multiple APIs
 1. SQL (a core API)
 2. Cassandra
